@@ -1,0 +1,6 @@
+title: "Portafolio – Edison H."
+description: "Desarrollo de Aplicaciones Web – UNCP"
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
