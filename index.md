@@ -3,7 +3,7 @@ layout: default
 title: "Portada"
 ---
 
-# 👋 Hola, soy **Edison Huaire**
+# 👋 Hola, soy **Edison Orlando Huaire Maravi**
 Estudiante de **Ingeniería de Sistemas – UNCP**. En este sitio documento mi avance en el curso **Desarrollo de Aplicaciones Web**.
 
 **Links rápidos:** [Sobre mí]({{ site.baseurl }}/sobre-mi), [Proyectos]({{ site.baseurl }}/proyectos/), [Cuaderno]({{ site.baseurl }}/cuaderno/), [Monografías]({{ site.baseurl }}/monografias/css-avanzado), [Bibliografía]({{ site.baseurl }}/bibliografia), [Reflexión final]({{ site.baseurl }}/reflexion-final).

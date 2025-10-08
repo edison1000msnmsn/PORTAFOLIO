@@ -2,6 +2,7 @@
 layout: default
 title: "Monografía — CSS Avanzado"
 ---
+[← Volver a las monografias]({{ site.baseurl }}/monografias/)
 <h1 align="center">UNIVERSIDAD NACIONAL DEL CENTRO DEL PERÚ</h1>
 
 <div align="center">   

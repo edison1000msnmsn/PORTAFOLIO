@@ -2,7 +2,7 @@
 layout: default
 title: "Proyectos concluidos"
 ---
-
+[← Volver al Inicio del Portafolio]({{ site.baseurl }}/PORTAFOLIO/)
 # Proyectos concluidos
 _Agrego aquí los proyectos con los que evidencio competencias._
 

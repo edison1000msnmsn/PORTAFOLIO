@@ -2,6 +2,7 @@
 layout: default
 title: "Sobre mí"
 ---
+[← Volver al Inicio del Portafolio]({{ site.baseurl }})
 
 # Sobre mí
 Soy una persona **responsable y curiosa**, enfocada en desarrollo web moderno (HTML, CSS, JS/TS, React) y en buenas prácticas (control de versiones, linters, accesibilidad, rendimiento).

@@ -2,6 +2,7 @@
 layout: default
 title: "Bibliografía (IEEE)"
 ---
+[← Volver al Inicio del Portafolio]({{ site.baseurl }})
 # Bibliografía (IEEE)
 
 [1] Mozilla Developer Network, “CSS Scroll Snap Module Level 1”, MDN Web Docs. Disponible en: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap. Accedido: 08 Oct 2025.
