@@ -1,7 +1,9 @@
+
 ---
 layout: default
 title: "Semana 4 — Exposición CSS Avanzado (I)"
 ---
+[← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 
 # Semana 4 — Exposición CSS Avanzado (I)
 ## Definiciones (en mis palabras)
