@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: "Semana 4 — Exposición CSS Avanzado (I)"
+
 ---
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 

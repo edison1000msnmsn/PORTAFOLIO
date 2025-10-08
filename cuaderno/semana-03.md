@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: "Semana 3 — Tarea Académica (Inicio de exposiciones)"
+
 ---
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 

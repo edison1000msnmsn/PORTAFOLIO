@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Semana 1 — Fundamentos de la Web"
+
 ---
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)

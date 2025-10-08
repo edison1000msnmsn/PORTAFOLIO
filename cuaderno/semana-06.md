@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: "Semana 6 — Introducción a React"
+
 ---
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 

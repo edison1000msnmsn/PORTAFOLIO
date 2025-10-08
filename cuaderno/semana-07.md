@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: "Semana 7 — Componentes y Hooks"
+
 ---
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 
