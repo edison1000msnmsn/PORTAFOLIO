@@ -2,7 +2,7 @@
 layout: default
 title: "Cuaderno — Semanas"
 ---
-
+[← Volver al Inicio del Portafolio]({{ site.baseurl }})
 # Cuaderno de aprendizaje
 
 - **Semana 01:** [Fundamentos de la Web]({{ site.baseurl }}/cuaderno/semana-01)
