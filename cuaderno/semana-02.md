@@ -276,4 +276,4 @@ Entendí que la semántica mejora la **accesibilidad y el SEO**, y que CSS (Flex
 **Próximos pasos:**
 - Seguir practicando **responsive design** con diferentes breakpoints
 - Componer secciones reutilizables y crear componentes modulares
-- Profundizar en técnicas avanzadas de Grid (áreas nombradas, grid-template-areas)
+- Profundizar en técnicas avanzadas de Grid.

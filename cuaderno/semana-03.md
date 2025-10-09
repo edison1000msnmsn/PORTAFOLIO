@@ -194,7 +194,6 @@ p:last-child { text-align:center; text-transform:uppercase; }
 
 * Elaboré una página HTML completa con **header, main y footer**, aplicando estilos externos.
 * Validé formularios y estilos básicos de texto y color.
-* Probé elementos multimedia en local.
 
 ---
 
