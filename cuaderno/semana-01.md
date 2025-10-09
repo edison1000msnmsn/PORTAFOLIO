@@ -50,10 +50,6 @@ ul>li*3>a[href="#"]{Enlace $}
 </ul>
 ```
 
-**Evidencias (capturas)**
-
-* `{{ site.baseurl }}/assets/semana01/vsc_atajos.png`
-* `{{ site.baseurl }}/assets/semana01/emmet_demo.png`
 
 ## 3) Control de versiones (Git/GitHub)
 
@@ -65,7 +61,6 @@ git add .
 git commit -m "Primer commit - inicio del cuaderno web"
 ```
 
-*Evidencia:* `{{ site.baseurl }}/assets/semana01/git_init.png`
 
 ## 4) Resultados de laboratorio
 
@@ -73,12 +68,9 @@ git commit -m "Primer commit - inicio del cuaderno web"
 * Inicialización de **Git** y primer commit.
 * Visualización con **Live Server**.
 
-*Evidencias:* `{{ site.baseurl }}/assets/semana01/`
-
 ## 5) Reflexión
 
 Comprendí la relación **cliente–servidor** y el papel de **HTTP/HTTPS** y **DNS**.
 Mi objetivo inmediato es dominar **atajos de VSC**, usar **Emmet** con soltura y mantener repos bien organizados con **Git**.
 
-```
 
