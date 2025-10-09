@@ -110,7 +110,6 @@ title: "Portafolio"
       <strong>Portafolio Electrónico</strong> del curso <em>Desarrollo de Aplicaciones Web</em>.</p>
 
       <div class="cta">
-        <!-- === NUEVO BOTÓN: SOBRE MÍ === -->
         <a class="btn" href="{{ site.baseurl }}/sobre-mi/">
           <svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12a4 4 0 1 0-4-4 4 4 0 0 0 4 4Zm0 2c-3.31 0-6 1.34-6 3v1h12v-1c0-1.66-2.69-3-6-3Z"/></svg>
           Sobre mí
