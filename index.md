@@ -105,10 +105,9 @@ title: "Portafolio"
     <img src="https://media.licdn.com/dms/image/v2/D4D03AQEJlDo21zm3-Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683091933866?e=1762992000&v=beta&t=RgkgznRs4TGl2uK-4HD_HxP5ZrqZ87rHKP0iYG47JGY"
          alt="Foto de Edison O. Huaire">
     <div>
-      <h1>Edison Orlando Huaire Maravi</h1>
-      <p>Estudiante de <strong>Ingeniería de Sistemas – UNCP</strong>. Este es mi
-        <strong>Portafolio Electrónico</strong> del curso <em>Desarrollo de Aplicaciones Web</em>.
-      </p>
+        <h1>Hola, soy <strong>Edison Orlando Huaire Maravi</strong></h1>
+    <p>Estudiante de <strong>Ingeniería de Sistemas – UNCP</strong>. Este es mi
+      <strong>Portafolio Electrónico</strong> del curso <em>Desarrollo de Aplicaciones Web</em>.</p>
 
       <div class="cta">
         <!-- === NUEVO BOTÓN: SOBRE MÍ === -->
