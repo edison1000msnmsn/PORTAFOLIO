@@ -54,8 +54,8 @@ permalink: /proyectos/turismo-chupaca/
 # Turismo Chupaca — Ficha técnica
 
 <div class="meta">
-  <div><strong>Rol</strong><br/>Desarrollador Web Fullstack (frontend + backend)</div>
-  <div><strong>Stack</strong><br/>HTML5 · CSS3 · JavaScript · PHP · MySQL · Bootstrap 5</div>
+  <div><strong>Rol</strong><br/>Desarrollador Web estatico - frontend</div>
+  <div><strong>Stack</strong><br/>HTML5 · CSS3 · JavaScript · React </div>
   <div><strong>Estado</strong><br/>Sitio web público en producción</div>
 </div>
 
@@ -95,8 +95,7 @@ Su meta es **impulsar el turismo local** y ofrecer una guía moderna, visual y a
 
 ## ⚙️ 4) Características técnicas
 - Sitio **responsive** y accesible (compatible con móviles y escritorio).  
-- Menú adaptable con **Bootstrap 5** y estructura modular.  
-- Base de datos **MySQL** con panel administrativo para registro de atractivos y eventos.  
+- Menú adaptable con **React** y estructura modular.   
 - Integración con **Google Maps** para geolocalización de destinos.  
 - SEO básico (metadatos, etiquetas alt, sitemap).  
 - Hosting propio con dominio `.com` y certificado **SSL**.
@@ -108,10 +107,3 @@ Su meta es **impulsar el turismo local** y ofrecer una guía moderna, visual y a
 - **Repositorio (interno):** versión local en desarrollo.
 
 ---
-
-## 🧱 6) Arquitectura simplificada
-```text
-[Frontend: HTML, CSS, JS]  —→  [Backend: PHP]  —→  [Base de datos: MySQL]
-          ↑                          ↓
-   Bootstrap 5              CRUD dinámico de contenidos
-   Galerías JS              Panel de administración
