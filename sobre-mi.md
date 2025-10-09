@@ -159,7 +159,7 @@ permalink: /sobre-mi/
 <h2 class="section-title">Lo que sé hacer</h2>
 <ul>
   <li>Maquetación con <strong>HTML5</strong> y <strong>CSS3</strong></li>
-  <li><strong>JavaScript</strong> (bases sólidas)</li>
+  <li><strong>JavaScript</strong> (bases)</li>
 </ul>
 
 <h2 class="section-title">Actualmente practicando</h2>
