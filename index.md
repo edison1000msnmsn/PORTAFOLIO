@@ -75,7 +75,7 @@ title: "Portafolio"
           <svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M4 6h16v9H4zM2 17h20v2H2z"/></svg>
           Proyectos
         </a>
-        <a class="btn" href="{{ site.baseurl }}/monografias/css-avanzado">
+        <a class="btn" href="{{ site.baseurl }}/monografias">
           <svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M14 2H6a2 2 0 0 0-2 2v16l4-2 4 2 4-2 4 2V8z"/></svg>
           Monografía
         </a>
