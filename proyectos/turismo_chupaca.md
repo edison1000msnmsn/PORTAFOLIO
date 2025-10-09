@@ -66,15 +66,14 @@ Su objetivo es **impulsar el turismo local** y ofrecer a los visitantes una guí
 - SEO básico (metadatos, etiquetas alt, sitemap).  
 - Hosting propio con dominio `.com` y certificado **SSL**.
 
-
 ## 5)  Evidencias
 - Sitio oficial: https://turismochupaca.com
-
 - Repositorio (privado/local): actualmente en desarrollo interno.
-## 6) Arquitectura simplificada
 
+## 6) Arquitectura simplificada
 ```text
 [Frontend: HTML, CSS, JS]  —→  [Backend: PHP]  —→  [Base de datos: MySQL]
           ↑                          ↓
    Bootstrap 5              CRUD dinámico de contenidos
    Galerías JS              Panel de administración
+ 

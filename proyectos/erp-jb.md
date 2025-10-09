@@ -62,10 +62,11 @@ El objetivo del ERP es centralizar usuarios/roles, matrícula, notas, asistencia
 - **Académico**: cursos, secciones, matrículas, notas, asistencia.
 - **Comunicación**: avisos internos y cola de email.
 - **Reportes**: listados y métricas por período.
+
 ## 4) Evidencias
 - Repositorio: https://github.com/edisondevin/erp-jb
+- Demo: pendiente.
 
-- Demo: pendiente
 ## 5) Arquitectura (visión rápida)
 SPA en React que consume una **API REST**:
 
