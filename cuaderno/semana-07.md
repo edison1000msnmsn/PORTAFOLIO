@@ -1,7 +1,5 @@
 ---
-layout: default
-title: "Semana 7 — Componentes y Hooks"
-permalink: /cuaderno/semana-07/
+
 ---
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)

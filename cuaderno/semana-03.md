@@ -1,8 +1,6 @@
 
 ---
-layout: default
-title: "Semana 3 — HTML Avanzado y CSS Básico"
-permalink: /cuaderno/semana-03/
+
 ---
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)

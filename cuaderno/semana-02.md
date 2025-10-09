@@ -1,8 +1,5 @@
 
 ---
-layout: default
-title: "Semana 2 — HTML5 + CSS3 (básico)"
-permalink: /cuaderno/semana-02/
 ---
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)

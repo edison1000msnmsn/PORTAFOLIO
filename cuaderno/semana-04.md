@@ -1,8 +1,6 @@
 
 ---
-layout: default
-title: "Semana 4 — CSS Avanzado y CSS con Bootstrap"
-permalink: /cuaderno/semana-04/
+
 ---
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
