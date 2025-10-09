@@ -167,7 +167,7 @@ title: "Portafolio"
         </a>
         <a class="card" href="{{ site.baseurl }}/bibliografia/">
           <h3>Bibliografía</h3>
-          <p class="muted">Fuentes y o bibliografias utilizadas en el curso.</p>
+          <p class="muted">Fuentes y/o bibliografias utilizadas en el curso.</p>
         </a>
       </div>
     </section>
