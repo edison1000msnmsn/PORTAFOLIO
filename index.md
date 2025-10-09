@@ -127,7 +127,7 @@ title: "Portafolio"
 
         <a class="btn" href="{{ site.baseurl }}/monografias/">
           <svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M14 2H6a2 2 0 0 0-2 2v16l4-2 4 2 4-2 4 2V8z"/></svg>
-          Monografía
+          Monografías
         </a>
 
         <a class="btn" href="{{ site.baseurl }}/bibliografia/">
@@ -161,7 +161,7 @@ title: "Portafolio"
           <h3>Proyectos concluidos</h3>
           <p class="muted">Trabajos concluidos y proyectos en progreso disponibles en la web.</p>
         </a>
-        <a class="card" href="{{ site.baseurl }}/monografias/css-avanzado">
+        <a class="card" href="{{ site.baseurl }}/monografias">
           <h3>Monografías</h3>
           <p class="muted">Explora mi monografía grupal de <strong>CSS Avanzado</strong> y revisa los trabajos de los demás equipos.</p>
         </a>
