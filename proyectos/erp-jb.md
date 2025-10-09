@@ -109,9 +109,11 @@ El ERP tiene como objetivo centralizar usuarios, roles, matrículas, notas, asis
 ## 🧱 5) Arquitectura (visión rápida)
 Aplicación **SPA** desarrollada con React, comunicada con una **API REST** y una base de datos **SQL Server**:
 
-```text
+```html
+<pre style="background:#0b1020;color:#e6edf3;border-radius:10px;padding:12px;">
 [React + TypeScript (Vite)]  —Axios→  [API REST (Node/Express o .NET)]  —ORM→  [SQL Server]
       |                                   |                                   |
    Router + Hooks                     JWT / Cookies                        Índices / FKs
    TailwindCSS                        Validación + DTOs                    Backups / Roles
    Estado (useState, useEffect)       Logs + CORS                          Migraciones
+</pre>
