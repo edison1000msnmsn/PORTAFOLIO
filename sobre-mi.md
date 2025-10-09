@@ -4,7 +4,6 @@ title: "Sobre mí"
 permalink: /sobre-mi/
 ---
 
-<!-- Header: imagen específica para esta página -->
 <style>
   .page-header{
     background-image:
@@ -31,9 +30,9 @@ permalink: /sobre-mi/
 
 # Sobre mí
 
-<div class="about">
+<div class="about" markdown="1">
 
-<div>
+<div markdown="1">
 Soy **Edison Orlando Huaire Maravi**. Me considero una persona **responsable**, **curiosa** y constante.  
 Me interesa el **desarrollo web moderno** y la calidad del código: estructurada.
 
@@ -44,44 +43,40 @@ Me interesa el **desarrollo web moderno** y la calidad del código: estructurada
 - **JavaScript** (bases).
 
 ### Actualmente practicando
-- **Frontend:** HTML5, CSS (Flexbox, Grid, *container queries*),**Tailwind CSS**, JS/TS, **React** (componentes, estado, hooks).
+- **Frontend:** HTML5, CSS (Flexbox, Grid, *container queries*), **Tailwind CSS**, JS/TS, **React** (componentes, estado, hooks).
 - **Herramientas:** **Vite**, configuración mínima de proyectos.
 - **Diseño:** criterios **UI/UX** básicos y prototipado en Figma.
 
 ### Valores de trabajo
-- Código claro y legible (nombres consistentes, formateo automático y documentacion clara).
+- Código claro y legible (nombres consistentes, formateo automático y documentación clara).
 - **Commits** pequeños con mensajes descriptivos.
 - Aprendizaje continuo y respeto por los estándares web.
 </div>
 
-<aside>
+<aside markdown="1">
 
 <div class="cards">
-  <div class="card">
-    <h3>Contacto</h3>
+  <div class="card" markdown="1">
+    ### Contacto
     <p class="muted">
-      <strong>Email académico:</strong> <a href="mailto:e_2021200783B@uncp.edu.pe">e_2021200783B@uncp.edu.pe</a><br/>
-      <strong>Email personal:</strong> <a href="mailto:edison10huaire@gmail.com">edison10huaire@gmail.com</a><br/>
-      <strong>GitHub:</strong> <a href="https://github.com/edison1000msnmsn" target="_blank">edison1000msnmsn</a><br/>
-      <strong>LinkedIn:</strong> <a href="https://pe.linkedin.com/in/edison-huaire-maravi-a39019275" target="_blank">Edison Huaire Maravi</a>
+      **Email académico:** <a href="mailto:e_2021200783B@uncp.edu.pe">e_2021200783B@uncp.edu.pe</a><br/>
+      **Email personal:** <a href="mailto:edison10huaire@gmail.com">edison10huaire@gmail.com</a><br/>
+      **GitHub:** <a href="https://github.com/edison1000msnmsn" target="_blank">edison1000msnmsn</a><br/>
+      **LinkedIn:** <a href="https://pe.linkedin.com/in/edison-huaire-maravi-a39019275" target="_blank">Edison Huaire Maravi</a>
     </p>
   </div>
 
-  <div class="card">
-    <h3>Herramientas cotidianas</h3>
-    <ul class="klist">
-      <li>VS Code (atajos, extensiones básicas)</li>
-      <li>Git CLI y GitHub Desktop</li>
-      <li>NPM, Vite, configuraciones mínimas de proyectos</li>
-    </ul>
+  <div class="card" markdown="1">
+    ### Herramientas cotidianas
+    - VS Code (atajos, extensiones básicas)
+    - Git CLI y GitHub Desktop
+    - NPM, Vite, configuraciones mínimas de proyectos
   </div>
 
-  <div class="card">
-    <h3>Próximos pasos</h3>
-    <ul class="klist">
-      <li>Routing y consumo de APIs en React</li>
-      <li>Buenas prácticas de accesibilidad</li>
-    </ul>
+  <div class="card" markdown="1">
+    ### Próximos pasos
+    - Routing y consumo de APIs en React
+    - Buenas prácticas de accesibilidad
   </div>
 </div>
 

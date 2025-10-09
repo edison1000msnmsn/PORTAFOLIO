@@ -53,4 +53,3 @@ Alternando teoría breve, **laboratorios**, exposición por equipos y práctica 
   <div><strong>Proyectos:</strong> ERP y sitio público “Turismo Chupaca”, etc.</div>
 </div>
 
-</p>
