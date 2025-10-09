@@ -1,8 +1,6 @@
 
 ---
-layout: default
-title: "Semana 1 — Fundamentos de la Web"
-permalink: /cuaderno/semana-01/
+
 ---
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
