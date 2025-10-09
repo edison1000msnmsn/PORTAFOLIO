@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Bibliografía (IEEE)"
+title: "Bibliografía"
+permalink: /bibliografia/
 ---
+
 [← Volver al Inicio del Portafolio]({{ site.baseurl }})
 # Bibliografía (IEEE)
 

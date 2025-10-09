@@ -1,7 +1,9 @@
 ---
 layout: default
 title: "Sobre mí"
+permalink: /sobre-mi/
 ---
+
 [← Volver al Inicio del Portafolio]({{ site.baseurl }})
 
 # Sobre mí
