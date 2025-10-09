@@ -43,7 +43,7 @@ _Agrego aquí los proyectos con los que evidencio competencias._
   <div class="card">
     <h3><a href="{{ site.baseurl }}/proyectos/turismo-chupaca/">Turismo Chupaca</a></h3>
     <div class="badges">
-      <span class="b">Producción</span><span class="b">Responsive</span><span class="b">PHP/MySQL</span>
+      <span class="b">Producción</span><span class="b">Responsive</span>
     </div>
     <p class="muted">
       Plataforma informativa para promocionar atractivos turísticos, cultura y gastronomía de Chupaca.
