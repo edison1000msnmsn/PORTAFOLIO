@@ -160,15 +160,15 @@ title: "Portafolio"
         </a>
         <a class="card" href="{{ site.baseurl }}/proyectos/">
           <h3>Proyectos concluidos</h3>
-          <p class="muted">ERP Jorge Basadre, Turismo Chupaca, y más.</p>
+          <p class="muted">Trabajos concluidos y proyectos en progreso disponibles en la web.</p>
         </a>
         <a class="card" href="{{ site.baseurl }}/monografias/css-avanzado">
-          <h3>Monografía</h3>
-          <p class="muted">Trabajo académico CSS Avanzado.</p>
+          <h3>Monografías</h3>
+          <p class="muted">Explora mi monografía grupal de <strong>CSS Avanzado</strong> y revisa los trabajos de los demás equipos.</p>
         </a>
         <a class="card" href="{{ site.baseurl }}/bibliografia/">
           <h3>Bibliografía</h3>
-          <p class="muted">Fuentes técnicas y académicas consultadas.</p>
+          <p class="muted">Fuentes y o bibliografias utilizadas en el curso.</p>
         </a>
       </div>
     </section>
