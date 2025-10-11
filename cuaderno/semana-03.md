@@ -45,7 +45,7 @@ Se abordaron las etiquetas semánticas, los formularios, las tablas y los elemen
     <h3>Artículo principal</h3>
     <p>El contenido semántico mejora la accesibilidad y SEO.</p>
   </article>
-  <footer class="card">© 2025 Mi sitio</footer>
+  <footer class="card">Mi sitio</footer>
 </div>
 
 **Código**
@@ -62,7 +62,7 @@ Se abordaron las etiquetas semánticas, los formularios, las tablas y los elemen
   <p>El contenido semántico mejora la accesibilidad y SEO.</p>
 </article>
 
-<footer>© 2025 Mi sitio</footer>
+<footer>Mi sitio</footer>
 ````
 
 ---

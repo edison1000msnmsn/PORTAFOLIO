@@ -7,9 +7,9 @@ title: "Cuaderno — Semanas"
 
 - **Semana 01:** [Fundamentos de la Web]({{ site.baseurl }}/cuaderno/semana-01)
 - **Semana 02:** [HTML5 + CSS3]({{ site.baseurl }}/cuaderno/semana-02)
-- **Semana 03:** [Tarea Académica (inicio)]({{ site.baseurl }}/cuaderno/semana-03)
-- **Semana 04:** [CSS Avanzado (I)]({{ site.baseurl }}/cuaderno/semana-04)
-- **Semana 05:** [CSS Avanzado (II)]({{ site.baseurl }}/cuaderno/semana-05)
+- **Semana 03:** [HTML Avanzado y CSS Básico]({{ site.baseurl }}/cuaderno/semana-03)
+- **Semana 04:** [CSS Avanzado y CSS con Bootstrap]({{ site.baseurl }}/cuaderno/semana-04)
+- **Semana 05:** [JavaScript Básico y Avanzado]({{ site.baseurl }}/cuaderno/semana-05)
 - **Semana 06:** [Introducción a React]({{ site.baseurl }}/cuaderno/semana-06)
 - **Semana 07:** [Componentes y Hooks]({{ site.baseurl }}/cuaderno/semana-07)
 

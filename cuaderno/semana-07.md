@@ -342,9 +342,7 @@ ReactDOM.createRoot(document.getElementById('s7-memo')).render(<SearchList />);
 
 ## Resultados de laboratorio
 
-* Practiqué **composición** (`props`, `children`, “slots” con JSX) y **lifting state up**.
 * Implementé hooks clave: `useState`, `useEffect` (fetch + cleanup), `useContext`, `useRef`, `useReducer`, `useMemo` y `useCallback`.
-* Observé cómo **optimizar renders** y separar la **lógica de estado**.
 
 ## Reflexión
 

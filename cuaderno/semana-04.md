@@ -7,7 +7,9 @@
 
 # Semana 4 — CSS Avanzado y CSS con Bootstrap
 
-> Objetivo: profundizar en **Custom Properties (variables)**, **transiciones/animaciones**, **transformaciones** y **layout avanzado**; además, introducir **Bootstrap** para prototipado rápido (grid, utilidades y componentes base).
+> Esta semana se desarrollaron dos exposiciones clave:  
+> **Grupo 3:** CSS Avanzado  
+> **Grupo 4:** CSS con bootstrap  
 
 <style>
   .demo-s4 *{ box-sizing:border-box }

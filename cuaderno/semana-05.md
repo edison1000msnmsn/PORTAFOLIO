@@ -7,9 +7,11 @@
 
 # Semana 5 — JavaScript Básico y Avanzado
 
-> Objetivo: consolidar fundamentos (variables, tipos, funciones, DOM y eventos) y avanzar con **arrays funcionales**, **clases**, **closures** y **asincronía** (promesas y `async/await`).
+> Esta semana se desarrollaron dos exposiciones clave:  
+> **Grupo 5:**  JS Básico 
+> **Grupo 6:** JS Avanzado 
 
-<!-- ===== Estilos y utilidades aislados para las demos ===== -->
+
 <style>
   .demo-s5 *{box-sizing:border-box}
   .demo-s5{font:15px/1.55 system-ui, -apple-system, Segoe UI, Roboto, sans-serif}
@@ -290,9 +292,6 @@ class Usuario {
 ## Resultados de laboratorio
 
 * Construí **interacciones DOM** (contador y formularios).
-* Practiqué **map/filter/reduce** con datos estructurados.
-* Implementé un `fetch` con **manejo de errores** y **fallback** local.
-* Apliqué **closures**, **clases** y entendí el contexto de `this`.
 
 ## Reflexión
 

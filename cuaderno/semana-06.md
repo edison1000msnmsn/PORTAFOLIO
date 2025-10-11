@@ -50,7 +50,7 @@ Esta demo usa **React 18 UMD + Babel standalone** para escribir JSX **directo en
     const [clicks, setClicks] = useState(0);
     return (
       <div>
-        <h3>Hola, {nombre} 👋</h3>
+        <h3>Hola, {nombre} </h3>
         <button onClick={() => setClicks(c => c + 1)}>Clicks: {clicks}</button>
       </div>
     );
@@ -166,9 +166,7 @@ function Contador({ paso = 1 }) {
 
 ## 6) Resultados de laboratorio
 
-* Ejecuté React con **CDN + Babel** y monté un componente con **estado** y **eventos**. 
 * Creé un proyecto con **Vite**, identifiqué `index.html`, `main.jsx` y `App.jsx`, y probé el contador. 
-* Revisé herramientas del ecosistema (**Webpack/Babel/ESLint/Prettier**) y su propósito. 
 
 ---
 

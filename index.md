@@ -175,7 +175,6 @@ title: "Portafolio"
     <aside>
       <h2>Contacto</h2>
       <p class="muted">
-        <strong>Nombre completo:</strong> Edison Orlando Huaire Maravi<br/>
         <strong>Email académico:</strong> <a href="mailto:e_2021200783B@uncp.edu.pe">e_2021200783B@uncp.edu.pe</a><br/>
         <strong>Email personal:</strong> <a href="mailto:edison10huaire@gmail.com">edison10huaire@gmail.com</a><br/>
         <strong>GitHub:</strong> <a href="https://github.com/edison1000msnmsn" target="_blank">edison1000msnmsn</a><br/>
