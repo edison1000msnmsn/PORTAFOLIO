@@ -167,14 +167,3 @@ PORTAFOLIO/
 * **GitHub:** [https://github.com/edison1000msnmsn](https://github.com/edison1000msnmsn)
 * **LinkedIn:** [https://pe.linkedin.com/in/edison-huaire-maravi-a39019275](https://pe.linkedin.com/in/edison-huaire-maravi-a39019275)
 
----
-
-## 10) Checklist de calidad (rápido)
-
-* [ ] Enlaces internos usan `{{ site.baseurl }}`.
-* [ ] Páginas clave con `permalink` correcto (proyectos/monografías).
-* [ ] Imágenes en `assets/...` con `alt` descriptivo.
-* [ ] Semanas con **definiciones + laboratorio + reflexión**.
-* [ ] Proyectos con **objetivo + stack + arquitectura + evidencias**.
-* [ ] Bibliografía en **estilo IEEE** y vigente al tema.
-
