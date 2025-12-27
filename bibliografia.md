@@ -1,10 +1,8 @@
-
 ---
 layout: default
 title: "Bibliografía"
 permalink: /bibliografia/
 ---
-
 <!-- Header: imagen específica para esta página -->
 <style>
   .page-header{
