@@ -4,6 +4,7 @@
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 
+````md
 
 # Semana 14 — Introducción a Python + Flask + App Inteligente (Llama 3)
 

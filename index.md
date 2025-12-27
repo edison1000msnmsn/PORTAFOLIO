@@ -117,7 +117,7 @@ title: "Portafolio"
 
         <a class="btn" href="{{ site.baseurl }}/cuaderno/">
           <svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h11a2 2 0 0 1 2 2v12a1 1 0 0 1-1.45.89L15 17.76l-2.55 1.13A1 1 0 0 1 11 18V6a2 2 0 0 0-2-2H6z"/></svg>
-          Cuaderno (S1–S7)
+          Cuaderno (S1–S16)
         </a>
 
         <a class="btn" href="{{ site.baseurl }}/proyectos/">
@@ -155,7 +155,7 @@ title: "Portafolio"
       <div class="grid">
         <a class="card" href="{{ site.baseurl }}/cuaderno/">
           <h3>Cuaderno por semanas</h3>
-          <p class="muted">Definiciones, laboratorios y reflexiones (S1–S7).</p>
+          <p class="muted">Definiciones, laboratorios y reflexiones (S1–S16).</p>
         </a>
         <a class="card" href="{{ site.baseurl }}/proyectos/">
           <h3>Proyectos concluidos</h3>
