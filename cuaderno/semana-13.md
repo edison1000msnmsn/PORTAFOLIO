@@ -244,7 +244,4 @@ En esta semana se aplicó MVC en Laravel:
 * **Rutas** para mapear endpoints web.
 * **Controlador** para recibir datos del formulario y registrar con **Eloquent**.
 * **Vista Blade** estilizada con **Tailwind** para el registro de estudiantes.
-
-```
-::contentReference[oaicite:1]{index=1}
-```
+---

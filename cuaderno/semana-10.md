@@ -297,13 +297,4 @@ public class EstudianteController {
 * **Table no se crea**: confirma `spring.jpa.hibernate.ddl-auto=update`.
 * **400 Bad Request en POST/PUT**: revisa JSON y nombres exactos de campos.
 * **404 Not Found**: revisa `@RequestMapping("/api/estudiantes")` y el puerto donde corre Spring.
-
 ---
-
-## 10) Próxima semana (adelanto)
-
-Se replica el mismo flujo para otra entidad (p.ej. **Docente**) y se fortalece el CRUD con mejores validaciones/documentación.
-
-```
-::contentReference[oaicite:3]{index=3}
-```

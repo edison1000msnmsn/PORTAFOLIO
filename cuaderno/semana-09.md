@@ -228,7 +228,4 @@ Ejemplo de `hello.jsp` (para probar rápido):
 ## 10) Conclusión 
 
 En la semana 09 se introdujo el desarrollo backend con Java/Jakarta, entendiendo el rol del servidor en arquitecturas cliente–servidor y multicapa. Se revisó el funcionamiento del server side y el uso de Apache Tomcat como contenedor para Servlets y JSP, donde las páginas JSP se traducen a servlets para ser compiladas y ejecutadas. Además, se estudió la gestión de dependencias con Maven mediante el archivo `pom.xml` y su ciclo de vida, y se realizó el laboratorio de instalación de OpenJDK, configuración de variables de entorno e instalación de Tomcat, verificando su ejecución y el despliegue básico de una página JSP.
-
-```
-::contentReference[oaicite:2]{index=2}
-```
+---

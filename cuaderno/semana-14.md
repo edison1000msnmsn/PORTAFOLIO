@@ -303,7 +303,3 @@ En la semana 14 se consolidó Python como base para backend e IA, aplicando POO 
 
 ---
 
-```
-
-::contentReference[oaicite:3]{index=3}
-```

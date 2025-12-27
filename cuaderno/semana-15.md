@@ -319,22 +319,8 @@ python app.py
 
 ---
 
-## 5) Evidencias (capturas)
 
-> (Guardar imágenes en `assets/semana15/` y enlazar aquí)
-
-* **Sistema experto ejecutándose:**
-  `![Sistema experto]({{ site.baseurl }}/assets/semana15/sistema-experto.png)`
-
-* **Control difuso ejecutándose:**
-  `![Fuzzy]({{ site.baseurl }}/assets/semana15/fuzzy.png)`
-
-* **App Flask + LLM funcionando:**
-  `![Flask LLM]({{ site.baseurl }}/assets/semana15/flask-llm.png)`
-
----
-
-## 6) Preguntas de repaso (respuestas cortas)
+## 5) Preguntas de repaso (respuestas cortas)
 
 1. **¿Qué hace un sistema experto basado en reglas?**
    Toma decisiones aplicando reglas IF–THEN sobre hechos/entradas; es explicable porque se puede justificar con “qué regla se activó”.
@@ -350,19 +336,8 @@ python app.py
 
 ---
 
-## 7) Reflexión personal
+## 6) Reflexión personal
 
 Esta semana entendí que “IA” no es una sola cosa: puede ser reglas (explicable), lógica difusa (natural para control) o modelos generativos (potentes pero más costosos). Lo más valioso fue integrar lo aprendido en una app funcional y probarla como producto (entrada → proceso → salida).
 
 ---
-
-## 8) Bibliografía (IEEE)
-
-* [1] Paloschi, C., *scikit-fuzzy Documentation*.
-* [2] Pallets Projects, *Flask Documentation*.
-* [3] Hugging Face, *Transformers Documentation*.
-* [4] Vaswani et al., “Attention Is All You Need,” 2017.
-
-```
-::contentReference[oaicite:0]{index=0}
-```

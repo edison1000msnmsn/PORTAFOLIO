@@ -228,7 +228,4 @@ if (!file_exists("importante.txt")) {
 
 ## 9) Conclusión 
 Esta semana dejé listo el entorno backend con **Apache + PHP + Composer**, entendí el flujo request/response y repasé la sintaxis mínima de PHP (variables, condicionales, bucles, funciones, includes). Con esto ya estoy preparado para implementar la **práctica CRUD en Laravel** de la semana 13.
-
-```
-::contentReference[oaicite:1]{index=1}
-```
+---

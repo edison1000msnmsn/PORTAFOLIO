@@ -482,5 +482,4 @@ Con springdoc, al ejecutar el proyecto podrás entrar a:
 4. ¿Qué devuelve `Page<T>` y para qué sirve en paginación?
 5. ¿Para qué sirve Swagger/OpenAPI en un proyecto real?
 
-```
-```
+---
