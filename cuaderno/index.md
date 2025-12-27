@@ -1,7 +1,4 @@
----
-layout: default
-title: "Cuaderno — Semanas"
-permalink: /cuaderno/
+
 ---
 
 [← Volver al Inicio del Portafolio]({{ site.baseurl }}/)
