@@ -4,14 +4,9 @@
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 
-Basado en tu **sem14.pdf** (Python + Flask + CRUD MySQL)  y en tu material donde se arma la **interfaz web con Llama 3 usando Flask + Transformers**  
-
 ````md
----
-title: "Semana 14 - Python + Flask + App Inteligente (Llama 3)"
----
 
-# ✅ Semana 14 — Introducción a Python + Flask + App Inteligente (Llama 3)
+# Semana 14 — Introducción a Python + Flask + App Inteligente (Llama 3)
 
 ## 1) ¿Qué se hizo esta semana?
 Esta semana se trabajó **Python** como base para backend y sistemas inteligentes, con 3 partes:

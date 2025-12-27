@@ -4,14 +4,13 @@
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 
-
+````md
 # Semana 15 — Sistemas Inteligentes en Python (Sistema Experto + Lógica Difusa + LLM con Flask)
 
 ## 1) Logro de la semana
 Implementé **tres enfoques de “sistema inteligente”** en Python:
 1) **Sistema experto** (reglas IF–THEN) para diagnóstico simple por síntomas.  
-2) **Control difuso** (lógica difusa) para recomendar potencia de aire acondicionado según temperatura.  
-3) **Mini app web con Flask** que consume un **LLM (tipo Llama)** para responder prompts desde un frontend simple (HTML/CSS/JS).
+2) **Mini app web con Flask** que consume un **LLM (tipo Llama)** para responder prompts desde un frontend simple (HTML/CSS/JS).
 
 ---
 
