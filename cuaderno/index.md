@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Cuaderno — Semanas"
@@ -44,5 +43,3 @@ Listado de semanas documentadas con **teoría + práctica + evidencias**.
 - **S08:** Consolidado 01 (sin actividad académica).
 - **S09–S15:** Backend (Java/PHP/Python) + prácticas CRUD + IA (LLM).
 - **S16:** Consolidado 02 / cierre (sin actividad académica).
-
-```
