@@ -4,7 +4,7 @@
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)
 
-````md
+
 # Semana 15 — Sistemas Inteligentes en Python (Sistema Experto + Lógica Difusa + LLM con Flask)
 
 ## 1) Logro de la semana

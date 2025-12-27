@@ -4,7 +4,6 @@
 
 [← Volver al cuaderno]({{ site.baseurl }}/cuaderno/)  
 
-````md
 # Semana 09 — Backend con Java (Jakarta) + Tomcat + JSP + Maven
 
 > **Enfoque real del profe (teórica):** introducción al backend con Java/Jakarta, servidor Tomcat, JSP y gestión de dependencias con Maven.
